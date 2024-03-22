@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc at the Princeton Neuroscience Institute and a researcher at the International Brain Laboratory.
+I am a postdoc at the Princeton Neuroscience Institute and a member of the International Brain Laboratory.
 
 ## Research Interests
 
