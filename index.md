@@ -11,7 +11,11 @@ I am a postdoc at the Princeton Neuroscience Institute and a member of the Inter
 - **Computational neuroscience:** Decision-making, RNNs
 
 
-## News
+## Publications
+* A unifying perspective on neural manifolds and circuits for cognition
+C. Langdon, M. Genkin, T.A. Engel
+Nature Reviews Neuroscience 24 (6), 363-377
+* 
 
 
 
