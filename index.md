@@ -11,11 +11,16 @@ I am a postdoc at the Princeton Neuroscience Institute and a member of the Inter
 - **Computational neuroscience:** Decision-making, RNNs
 
 
-## Publications
+## Publications and preprints
 * [A unifying perspective on neural manifolds and circuits for cognition](https://www.nature.com/articles/s41583-023-00693-x)  
 C. Langdon, M. Genkin, T.A. Engel  
 Nature Reviews Neuroscience 24 (6), 363-377
-* 
+* [Latent circuit inference from heterogeneous neural responses during cognitive tasks](https://www.biorxiv.org/content/biorxiv/early/2022/01/24/2022.01.23.477431.full.pdf)    
+C Langdon, TA Engel     
+BioRxiv, 2022.01. 23.477431  
+* [A brain-wide map of neural activity during complex behaviour](https://www.biorxiv.org/content/10.1101/2023.07.04.547681v2.full.pdf)  
+International Brain Lab et. al.  
+bioRxiv, 2023.07. 04.547681
 
 
 
