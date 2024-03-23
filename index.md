@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc at the Princeton Neuroscience Institute and a member of the International Brain Laboratory.
+I am a computational neuroscientist and mathematician currently working as a postdoc in the Engel Lab at the Princeton Neuroscience Institute. I am also a member of the International Brain Laboratory.
 
 ## Research Interests
 
