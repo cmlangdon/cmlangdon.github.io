@@ -1,14 +1,17 @@
 # Basic Information 
 title: Christopher Langdon
 position: Associate Research Scholar
-affiliation: Princeton Neuroscience Institute, Princeton University/ International Brain Laboratory
-email: cl1704@princeton.edu
+affiliation: Princeton Neuroscience Institute, Princeton University  
+International Brain Laboratory
+email: cl1704@princeton.edu  
+christopher.langdon@internationalbrainlab
+
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: princeton neuroscience
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: personal homepage for chris langdon
+canonical: https://cmlangdon.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
