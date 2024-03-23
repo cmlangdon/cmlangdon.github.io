@@ -21,6 +21,9 @@ BioRxiv, 2022.01. 23.477431
 * [A brain-wide map of neural activity during complex behaviour](https://www.biorxiv.org/content/10.1101/2023.07.04.547681v2.full.pdf)  
 International Brain Lab et. al.  
 bioRxiv, 2023.07. 04.547681
+* [Combinatorial geometry of threshold-linear networks](https://arxiv.org/pdf/2008.01032.pdf)  
+C Curto, C Langdon, K Morrison  
+arXiv:2008.01032  
 
 
 
